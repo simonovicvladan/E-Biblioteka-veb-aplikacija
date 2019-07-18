@@ -1,0 +1,129 @@
+
+[17-Feb-2019 15:09:15 Europe/Berlin] PHP Notice:  Undefined index: isbn in C:\xampp\htdocs\biblioteka\knjige.php on line 81
+[17-Feb-2019 15:09:15 Europe/Berlin] PHP Notice:  Undefined index: zanrID in C:\xampp\htdocs\biblioteka\knjige.php on line 84
+[17-Feb-2019 15:09:15 Europe/Berlin] PHP Notice:  Undefined index: isbn in C:\xampp\htdocs\biblioteka\knjige.php on line 81
+[17-Feb-2019 15:09:15 Europe/Berlin] PHP Notice:  Undefined index: zanrID in C:\xampp\htdocs\biblioteka\knjige.php on line 84
+[17-Feb-2019 15:10:22 Europe/Berlin] PHP Notice:  Undefined index: isbn in C:\xampp\htdocs\biblioteka\knjige.php on line 80
+[17-Feb-2019 15:10:22 Europe/Berlin] PHP Notice:  Undefined index: zanrID in C:\xampp\htdocs\biblioteka\knjige.php on line 83
+[17-Feb-2019 15:10:22 Europe/Berlin] PHP Notice:  Undefined index: isbn in C:\xampp\htdocs\biblioteka\knjige.php on line 80
+[17-Feb-2019 15:10:22 Europe/Berlin] PHP Notice:  Undefined index: zanrID in C:\xampp\htdocs\biblioteka\knjige.php on line 83
+[17-Feb-2019 15:16:24 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\biblioteka\userClass.php on line 61
+[17-Feb-2019 16:32:25 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\biblioteka\userClass.php on line 61
+[17-Feb-2019 16:32:40 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\biblioteka\userClass.php on line 61
+[17-Feb-2019 16:32:49 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\biblioteka\userClass.php on line 61
+[17-Feb-2019 16:33:06 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\biblioteka\userClass.php on line 61
+[17-Feb-2019 16:33:22 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\biblioteka\userClass.php on line 61
+[17-Feb-2019 16:37:59 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\biblioteka\userClass.php on line 61
+[17-Feb-2019 16:38:12 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\biblioteka\userClass.php on line 61
+[17-Feb-2019 16:38:22 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\biblioteka\userClass.php on line 61
+[17-Feb-2019 16:48:54 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\biblioteka\userClass.php on line 61
+[17-Feb-2019 16:49:04 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\biblioteka\userClass.php on line 61
+[17-Feb-2019 18:06:26 Europe/Berlin] PHP Warning:  require(hotelClass.php): failed to open stream: No such file or directory in C:\xampp\htdocs\biblioteka\rezervisi.php on line 4
+[17-Feb-2019 18:06:26 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'hotelClass.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\biblioteka\rezervisi.php on line 4
+[17-Feb-2019 18:15:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allKnjige() in C:\xampp\htdocs\biblioteka\rezervisi.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\rezervisi.php on line 67
+[17-Feb-2019 18:16:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allKnjige() in C:\xampp\htdocs\biblioteka\rezervisi.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\rezervisi.php on line 67
+[17-Feb-2019 18:16:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allKnjige() in C:\xampp\htdocs\biblioteka\rezervisi.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\rezervisi.php on line 67
+[17-Feb-2019 18:16:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allKnjige() in C:\xampp\htdocs\biblioteka\rezervisi.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\rezervisi.php on line 67
+[17-Feb-2019 18:16:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allKnjige() in C:\xampp\htdocs\biblioteka\rezervisi.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\rezervisi.php on line 67
+[17-Feb-2019 18:18:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allKnjige() in C:\xampp\htdocs\biblioteka\rezervisi.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\rezervisi.php on line 67
+[17-Feb-2019 18:18:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allKnjige() in C:\xampp\htdocs\biblioteka\rezervisi.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\rezervisi.php on line 67
+[17-Feb-2019 18:18:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allKnjige() in C:\xampp\htdocs\biblioteka\rezervisi.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\rezervisi.php on line 67
+[17-Feb-2019 18:22:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allKnjige() in C:\xampp\htdocs\biblioteka\rezervisi.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\rezervisi.php on line 67
+[17-Feb-2019 18:22:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allKnjige() in C:\xampp\htdocs\biblioteka\rezervisi.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\rezervisi.php on line 67
+[17-Feb-2019 18:23:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allKnjige() in C:\xampp\htdocs\biblioteka\rezervisi.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\rezervisi.php on line 67
+[18-Feb-2019 09:46:55 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\biblioteka\knjige.php on line 66
+[18-Feb-2019 10:20:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allKnjige() in C:\xampp\htdocs\biblioteka\admin.php:82
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\admin.php on line 82
+[18-Feb-2019 10:20:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allKnjige() in C:\xampp\htdocs\biblioteka\admin.php:123
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\admin.php on line 123
+[18-Feb-2019 10:21:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allReservationBySearch() in C:\xampp\htdocs\biblioteka\generisiPodatkeSearch.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\generisiPodatkeSearch.php on line 6
+[18-Feb-2019 10:21:38 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$nazivHotela in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:21:38 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:21:38 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$nazivHotela in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:21:38 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:21:38 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$nazivHotela in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:21:38 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:21:38 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$nazivHotela in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:21:38 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:24:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Knjiga::allReservationBySearch() in C:\xampp\htdocs\biblioteka\generisiPodatkeSearch.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\generisiPodatkeSearch.php on line 6
+[18-Feb-2019 10:24:08 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$nazivHotela in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:24:08 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:24:08 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$nazivHotela in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:24:08 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:24:08 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$nazivHotela in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:24:08 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:24:08 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$nazivHotela in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:24:08 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:25:00 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$nazivHotela in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:25:00 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:25:00 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$nazivHotela in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:25:00 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:25:00 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$nazivHotela in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:25:00 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:25:00 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$nazivHotela in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:25:00 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:27:02 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$naslovKnjige in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:27:02 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:27:02 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$naslovKnjige in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:27:02 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:27:02 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$naslovKnjige in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:27:02 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:27:02 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$naslovKnjige in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:27:02 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$broj in C:\xampp\htdocs\biblioteka\podaciGrafik.php on line 16
+[18-Feb-2019 10:36:05 Europe/Berlin] PHP Notice:  Undefined index: naslov in C:\xampp\htdocs\biblioteka\admin.php on line 11
+[18-Feb-2019 10:36:05 Europe/Berlin] PHP Notice:  Undefined variable: hotel in C:\xampp\htdocs\biblioteka\admin.php on line 12
+[18-Feb-2019 10:36:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getResult() on null in C:\xampp\htdocs\biblioteka\admin.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\admin.php on line 12
+[18-Feb-2019 10:36:14 Europe/Berlin] PHP Notice:  Undefined index: naslov in C:\xampp\htdocs\biblioteka\admin.php on line 11
+[18-Feb-2019 10:36:14 Europe/Berlin] PHP Notice:  Undefined variable: hotel in C:\xampp\htdocs\biblioteka\admin.php on line 12
+[18-Feb-2019 10:36:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getResult() on null in C:\xampp\htdocs\biblioteka\admin.php:12
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\biblioteka\admin.php on line 12
+[19-Feb-2019 09:29:37 Europe/Berlin] PHP Notice:  Undefined index: naslov in C:\xampp\htdocs\biblioteka\admin.php on line 11
+[19-Feb-2019 09:31:42 Europe/Berlin] PHP Notice:  Undefined index: naslov in C:\xampp\htdocs\biblioteka\admin.php on line 11
