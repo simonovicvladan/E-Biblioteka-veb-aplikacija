@@ -1,5 +1,5 @@
 # E-Biblioteka-veb-aplikacija
-Veb aplikacija sa AJAX funkcionalnostima, REST API. Poseduje i frontend i backend deo. Projekat sadrzi dokumetaciju
+
 Potrebno je projektovati, razviti i implementirati veb aplikaciju, koja poseduje AJAX funkcionalnosti, koristi gotovi REST API (javni veb servis) i u kojoj se kreira i koristi sopstveni REST API (sopstveni veb servis). Temu seminarskog rada iz Internet tehnologija studenti osnovnih studija mogu predložiti sami ili izabrati sa spiska ponuđenih tema. Studenti koji sami predlažu temu za seminarski treba da se sa nekim od nastavnika ili asistenata na predmetu prethodno dogovore o tačnom nazivu i sadržaju seminarskog rada. Studenti koji biraju neku od ponuđenih tema, prijavljuju se isključivo preko sajta. Spisak tema nije konačan i biće proširen po potrebi.
 
 Web aplikacija treba da bude skladna celina, koja poseduje javni (frontend) i administratorski (backend) deo. Seminarski rad treba da sadrži dokumentaciju i implementaciju web aplikacije.
